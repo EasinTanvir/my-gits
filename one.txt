@@ -1,2 +1,2 @@
 this is number one from pc
-I am learning github
+I am learning github(update from class2)
